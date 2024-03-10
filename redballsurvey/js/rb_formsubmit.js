@@ -1,9 +1,4 @@
 /*
-   New Perspectives on HTML5 and CSS3, 8th Edition
-   Tutorial 7
-   Tutorial Case
-
-
    Filename: rb_formsubmit.js
 
    Purpose: The purpose of this program is to simply report on a
@@ -16,8 +11,6 @@
             The event function returns a value of false so that the
             student does not have to continually retype test values
             in the survey form.
-
-
 */
 
 window.onload = function() {
